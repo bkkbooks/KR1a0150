@@ -28,6 +28,7 @@ markers:
   - {type: line-break, offset: 18, content: '', id: KR1a0150_WYG_001-1a05}
   - {type: 'kr:non-cjk', offset: 18, content: ䷀, id: KR1a0150_WYG_001-bkkkrnonc1}
   - {type: punctuation, offset: 18, content: (, id: KR1a0150_WYG_001-bkkpn1}
+  - {type: voice, offset: 18, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 20, content: /, id: KR1a0150_WYG_001-bkkpn2}
   - {type: punctuation, offset: 22, content: ), id: KR1a0150_WYG_001-bkkpn3}
   - {type: 'kr:newline', offset: 22, content: '
@@ -1225,6 +1226,7 @@ markers:
   - {type: line-break, offset: 3803, content: '', id: KR1a0150_WYG_001-14a03}
   - {type: indent, offset: 3803, content: 　, id: KR1a0150_WYG_001-bkkind207}
   - {type: punctuation, offset: 3804, content: (, id: KR1a0150_WYG_001-bkkpn4}
+  - {type: voice, offset: 3804, length: 12, name: note, id: n2}
   - {type: punctuation, offset: 3810, content: /, id: KR1a0150_WYG_001-bkkpn5}
   - {type: punctuation, offset: 3816, content: ), id: KR1a0150_WYG_001-bkkpn6}
   - {type: 'kr:newline', offset: 3816, content: '
@@ -1271,6 +1273,7 @@ markers:
   - {type: line-break, offset: 3929, content: '', id: KR1a0150_WYG_001-14b02}
   - {type: indent, offset: 3929, content: 　, id: KR1a0150_WYG_001-bkkind214}
   - {type: punctuation, offset: 3930, content: (, id: KR1a0150_WYG_001-bkkpn7}
+  - {type: voice, offset: 3930, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 3931, content: /, id: KR1a0150_WYG_001-bkkpn8}
   - {type: punctuation, offset: 3931, content: ), id: KR1a0150_WYG_001-bkkpn9}
   - {type: 'kr:newline', offset: 3949, content: '
@@ -1442,6 +1445,7 @@ markers:
   - {type: line-break, offset: 4499, content: '', id: KR1a0150_WYG_001-16a08}
   - {type: 'kr:non-cjk', offset: 4499, content: ䷁, id: KR1a0150_WYG_001-bkkkrnonc74}
   - {type: punctuation, offset: 4499, content: (, id: KR1a0150_WYG_001-bkkpn10}
+  - {type: voice, offset: 4499, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 4501, content: /, id: KR1a0150_WYG_001-bkkpn11}
   - {type: punctuation, offset: 4503, content: ), id: KR1a0150_WYG_001-bkkpn12}
   - {type: 'kr:newline', offset: 4503, content: '
@@ -1889,6 +1893,7 @@ markers:
       ', id: KR1a0150_WYG_001-bkkkrnewl364}
   - {type: line-break, offset: 5930, content: '', id: KR1a0150_WYG_001-21a05}
   - {type: punctuation, offset: 5935, content: (, id: KR1a0150_WYG_001-bkkpn13}
+  - {type: voice, offset: 5935, length: 15, name: note, id: n5}
   - {type: punctuation, offset: 5943, content: /, id: KR1a0150_WYG_001-bkkpn14}
   - {type: punctuation, offset: 5950, content: ), id: KR1a0150_WYG_001-bkkpn15}
   - {type: 'kr:newline', offset: 5950, content: '
@@ -2754,6 +2759,7 @@ markers:
   - {type: line-break, offset: 8717, content: '', id: KR1a0150_WYG_001-30b01}
   - {type: 'kr:non-cjk', offset: 8717, content: ䷂, id: KR1a0150_WYG_001-bkkkrnonc146}
   - {type: punctuation, offset: 8717, content: (, id: KR1a0150_WYG_001-bkkpn16}
+  - {type: voice, offset: 8717, length: 4, name: note, id: n6}
   - {type: punctuation, offset: 8719, content: /, id: KR1a0150_WYG_001-bkkpn17}
   - {type: punctuation, offset: 8721, content: ), id: KR1a0150_WYG_001-bkkpn18}
   - {type: indent, offset: 8721, content: 　　, id: KR1a0150_WYG_001-bkkind462}
@@ -3797,6 +3803,7 @@ markers:
   - {type: line-break, offset: 12050, content: '', id: KR1a0150_WYG_001-41b04}
   - {type: 'kr:non-cjk', offset: 12050, content: ䷃, id: KR1a0150_WYG_001-bkkkrnonc208}
   - {type: punctuation, offset: 12050, content: (, id: KR1a0150_WYG_001-bkkpn19}
+  - {type: voice, offset: 12050, length: 4, name: note, id: n7}
   - {type: punctuation, offset: 12052, content: /, id: KR1a0150_WYG_001-bkkpn20}
   - {type: punctuation, offset: 12054, content: ), id: KR1a0150_WYG_001-bkkpn21}
   - {type: indent, offset: 12054, content: 　　, id: KR1a0150_WYG_001-bkkind636}
@@ -4740,4 +4747,4 @@ markers:
 
       ', id: KR1a0150_WYG_001-bkkp1}
   back: []
-hash: sha256:18e2c81a2322d7ddad6b6d8b0b2a5b9fbc1743988751e7e98f7e4bd12e682c63
+hash: sha256:b2cae45153aa7159a75c193bc3e0eca0d2d9ac3ec1eb484d5e72bab781dadb94
